@@ -146,7 +146,7 @@ img {
 }
 html {
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Songti SC", serif;
 
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
